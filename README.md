@@ -1,13 +1,16 @@
 # MARIO JUMP
 
-## Tecnologias utilizadas:
+## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
 
-## Como funciona o projeto?
+## COMO VISUALIZAR O PROJETO:
+Acessando o link https://super-mariojump.netlify.app/
+
+## COMO FUNCIONA O PROJETO?
 Mini game simples que utiliza DOM para realizar a manipulação do HTML e criar interatividade.
 
 
-### DOM - Manipulação do HTML alterando classes:
+### DOM - MANIPULAÇÃO DO HTML ALTERNANDO CLASSES:
 As imagens foram inseridas separadas das classes que contém as animações.
 
 ![image](https://media.discordapp.net/attachments/1112778878109356076/1112795982883729518/Imagens.png)
