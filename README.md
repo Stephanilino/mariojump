@@ -3,7 +3,7 @@
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
 
-## COMO VISUALIZAR O PROJETO:
+## COMO VISUALIZAR O PROJETO?
 Acessando o link https://super-mariojump.netlify.app/
 
 ## COMO FUNCIONA O PROJETO?
