@@ -1,4 +1,4 @@
-# MARIO JUMP ![gif](https://i.gifer.com/origin/27/272140059f781c4b76429f451ece15d2_w200.gif)
+# MARIO JUMP ![gif](https://gamerview.uai.com.br/wp-content/uploads/2019/12/mario-gif.gif)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
