@@ -1,5 +1,5 @@
-# MARIO JUMP!
-<img align="right" alt="github" height="180" width="180" src="https://media.discordapp.net/attachments/1112778878109356076/1113532653220675737/ddztlt8-d34769a4-8943-471e-b28a-d12d7d1d4d6e.gif">
+# MARIO JUMP! <img align="right" alt="github" height="180" width="180" src="https://media.discordapp.net/attachments/1112778878109356076/1113532653220675737/ddztlt8-d34769a4-8943-471e-b28a-d12d7d1d4d6e.gif">
+<br></br>
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
