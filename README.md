@@ -6,6 +6,8 @@ HTML, CSS e Javascript.
 ## COMO VISUALIZAR O PROJETO?
 Acessando o link https://super-mariojump.netlify.app/
 
+![image](https://media.discordapp.net/attachments/1112778878109356076/1113507198396551289/game.png?width=919&height=468)
+
 ## COMO FUNCIONA O PROJETO?
 Mini game simples que utiliza DOM para realizar a manipulação do HTML e criar interatividade.
 
