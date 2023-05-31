@@ -39,4 +39,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 
 ![image](https://media.discordapp.net/attachments/1112778878109356076/1113517734312038524/encerrando_o_jogo.png)
 
-Para dúvidas ou sugestões poderá me contatar através do meu email ou Linkedin 🧡
+Para dúvidas ou sugestões poderá me contatar por meio do [email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino).
+
