@@ -1,4 +1,4 @@
-# MARIO JUMP
+# MARIO JUMP ![Mario](https://cdn3.emoji.gg/emojis/Mario.png)](https://emoji.gg/emoji/Mario)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
