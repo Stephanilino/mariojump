@@ -1,10 +1,4 @@
-# MARIO JUMP 
-<div class="intro-header">
-	<div id="background"></div>
-    <div class="container">
-       <img src="https://cdn.worldvectorlogo.com/logos/super-mario-world.svg" class="logo-inicio">
-     </div>	
-</div>
+# MARIO JUMP ![gif mario](https://gatoledo.com/projetos/compunifaj/img/mario.gif)
 
 
 ## TECNOLOGIAS UTILIZADAS
