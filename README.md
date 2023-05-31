@@ -1,4 +1,4 @@
-# MARIO JUMP ![gif](<iframe src="https://giphy.com/embed/5WhcEmJZbPm38oP7vt" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/video-games-5WhcEmJZbPm38oP7vt">via GIPHY</a></p>
+# MARIO JUMP ![gif](<https://giphy.com/embed/5WhcEmJZbPm38oP7vt)
 
 
 ## TECNOLOGIAS UTILIZADAS
