@@ -1,4 +1,4 @@
-# MARIO JUMP![gif](https://64.media.tumblr.com/b975fa1365db15f3af4ae6276ed7705b/275964eee87f8d9b-2a/s500x750/fed9566be943058ca9ebfc7d633c123b80d94a4c.gif)
+# MARIO JUMP![gif](https://i.gifer.com/33HU.gif)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
@@ -43,5 +43,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 Para dúvidas ou sugestões podem me contatar por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-![gif](https://art.pixilart.com/f8da8fb7d2d8.gif)
+![gif](https://media.tenor.com/b1OgptM76r4AAAAC/princess-peach-nintendo.gif)
 
