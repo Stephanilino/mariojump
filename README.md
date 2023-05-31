@@ -34,6 +34,6 @@ A função start é iniciada com pressionamento de qualquer tecla do teclado, su
 
 ![image](https://media.discordapp.net/attachments/1112778878109356076/1113515332754227270/Funcao_start.png?width=646&height=468)
 
-A função offsetLeft foi utilizada para monitoramento da posição das imagens, tornando possivel criar regras para que o JavaScript entenda quando a imagem do Mario está sobre a imagem da tubulação, parando as animações quando todas as condições do IF forem verdadeiras.
+A função offsetLeft foi utilizada para monitoramento da posição das imagens, tornando possivel criar regras para que o JavaScript entenda quando a imagem do Mario está sobre a imagem da tubulação, parando as animações quando todas as condições do "if" forem verdadeiras.
 
 ![image](https://media.discordapp.net/attachments/1112778878109356076/1113517734312038524/encerrando_o_jogo.png)
