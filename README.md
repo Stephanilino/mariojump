@@ -1,4 +1,4 @@
-# MARIO JUMP ![gif](<https://giphy.com/embed/5WhcEmJZbPm38oP7vt)
+# MARIO JUMP ![gif](https://tenor.com/pt-BR/view/mario-walking-cape-game-pixel-art-gif-14233253)
 
 
 ## TECNOLOGIAS UTILIZADAS
