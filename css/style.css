@@ -24,7 +24,7 @@ body {
 /*=============== Mario ===============*/
 
 .mario {
-    width: 150px;
+    width: 60px;
     position: absolute;
     bottom: 0;
     margin-left: 100px;
