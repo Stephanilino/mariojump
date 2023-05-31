@@ -44,5 +44,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 Para dúvidas ou sugestões podem me contatar por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-![gif](https://media.tenor.com/b1OgptM76r4AAAAC/princess-peach-nintendo.gif)
+![gif](https://i.pinimg.com/originals/0c/0f/44/0c0f44872a475d2d01aacb020391dd7e.gif)
 
