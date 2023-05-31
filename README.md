@@ -17,7 +17,7 @@ As imagens foram inseridas separadas das classes que contém as animações.
 
 E as animações foram criadas dentro do CSS em classes distintas.
 
-![image](https://media.discordapp.net/attachments/1112778878109356076/1112797224431276062/Animacoes.png)
+![image](https://media.discordapp.net/attachments/1112778878109356076/1113502581159891105/Animacoes.png?width=809&height=468)
 
 No JavaScript foi inserido a função que une as duas classes no HTML. produzindo o efeito visual de saltar do personagem. 
 A função setTimeOut foi utilizada para que após a execução da animação de salto, seja excluida a classe "Jump" do HTML, finalizando a animação,
