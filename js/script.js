@@ -91,7 +91,7 @@ const checkGameOver = setInterval(() => {
             floor3.style.left = `${floorPosition3}px`;
 
             document.getElementById("text-start").style.color = "black";
-            document.getElementById("text-start").innerHTML="<strong>GAME OVER</strong>";
+            document.getElementById("text-start").innerHTML="<strong>GAME OVER! Atualize a página para reiniciar o jogo!</strong>";
 
             function stopAudioStart(){
                 audioStart.pause();
