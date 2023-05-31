@@ -1,4 +1,4 @@
-# MARIO JUMP ![gif](https://media.tenor.com/rt_mMSl7f04AAAAj/change-power-up-mario.gif)
+# MARIO JUMP ![gif](https://i.gifer.com/origin/27/272140059f781c4b76429f451ece15d2_w200.gif)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
