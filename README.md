@@ -1,5 +1,4 @@
-# MARIO JUMP ![gif](https://gatoledo.com/projetos/compunifaj/img/mario.gif)
-
+# MARIO JUMP ![gif](https://media.tenor.com/rt_mMSl7f04AAAAj/change-power-up-mario.gif)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
@@ -44,5 +43,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 Para dúvidas ou sugestões podem me contatar por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-![gif](https://media.tenor.com/rt_mMSl7f04AAAAj/change-power-up-mario.gif)
+![gif](https://4.bp.blogspot.com/-lsmntkBqPFU/VIcKEVNuYPI/AAAAAAAAL5M/TDBtSphgLgM/s1600/yoshi%2B3.gif)
 
