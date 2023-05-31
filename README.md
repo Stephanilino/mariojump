@@ -13,7 +13,7 @@ Mini game simples que utiliza DOM para realizar a manipulação do HTML e criar 
 ### DOM - MANIPULAÇÃO DO HTML ALTERNANDO CLASSES:
 As imagens foram inseridas separadas das classes que contém as animações.
 
-![image](https://media.discordapp.net/attachments/1112778878109356076/1112795982883729518/Imagens.png)
+![image](https://media.discordapp.net/attachments/1112778878109356076/1113183381627355217/Imagens.png)
 
 E as animações foram criadas dentro do CSS em classes distintas.
 
