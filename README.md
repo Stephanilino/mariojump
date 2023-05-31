@@ -44,5 +44,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 Para dúvidas ou sugestões podem me contatar por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-![gif](https://github.com/stephanilino/MarioJump/assets/134796218/14b65e55-e587-4faf-9eca-11367025e8f8)
+![gif](https://media.tenor.com/rt_mMSl7f04AAAAj/change-power-up-mario.gif)
 
