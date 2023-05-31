@@ -41,7 +41,6 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 
 #
 
-<div style="text-align:center">
 Para dúvidas ou sugestões podem me contatar por meio do [email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
-</div>
+
 
