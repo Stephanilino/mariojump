@@ -1,4 +1,11 @@
-# MARIO JUMP ![Mario](https://cdn3.emoji.gg/emojis/Mario.png)
+# MARIO JUMP 
+<div class="intro-header">
+	<div id="background"></div>
+    <div class="container">
+       <img src="https://cdn.worldvectorlogo.com/logos/super-mario-world.svg" class="logo-inicio">
+     </div>	
+</div>
+
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
