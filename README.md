@@ -28,8 +28,8 @@ A função setTimeOut foi utilizada para que após a execução da animação de
 
 Ao ativar a função, no HTML a classe "jump" é removida pelo JavaScript ao final da duração da animação de salto.
 
-![image](https://media.discordapp.net/attachments/1112778878109356076/1113514843136344154/mario-stop.png)
+![image](https://media.discordapp.net/attachments/1112778878109356076/1113515333064593468/mario-stop.png)
 
 A função start é iniciada com pressionamento de qualquer tecla do teclado, substituindo a imagem do Mario parado para um gif do mesmo correndo, e iniciando as animações e sons de fundo.
 
-![image](https://media.discordapp.net/attachments/1112778878109356076/1113513881957040268/finalizando_o_game.png)
+![image](https://media.discordapp.net/attachments/1112778878109356076/1113515332754227270/Funcao_start.png?width=646&height=468)
