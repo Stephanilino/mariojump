@@ -1,4 +1,4 @@
-# MARIO JUMP!![gif](https://i.gifer.com/1pNZ.gif)
+# MARIO JUMP![gif](https://i.gifer.com/1pNZ.gif)
 
 ## TECNOLOGIAS UTILIZADAS
 HTML, CSS e Javascript.
