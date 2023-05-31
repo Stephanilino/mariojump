@@ -1,4 +1,4 @@
-# MARIO JUMP! ![gif](https://media.discordapp.net/attachments/1112778878109356076/1113532653220675737/ddztlt8-d34769a4-8943-471e-b28a-d12d7d1d4d6e.gif)
+# MARIO JUMP! ![gif](https://gatoledo.com/projetos/compunifaj/img/mario.gif)
 
 
 ## TECNOLOGIAS UTILIZADAS
