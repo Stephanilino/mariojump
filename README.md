@@ -44,4 +44,5 @@ A função offsetLeft foi utilizada para monitoramento da posição das imagens,
 Para dúvidas ou sugestões podem me contatar por meio do [Email](mailto:stephanisl.lino@gmail.com) ou [Linkedin](https://www.linkedin.com/in/stephanilino). 
 <br>
 </br>
-![gif](https://24.media.tumblr.com/6549c854af146601294cc308218bf16e/tumblr_mg15jb5V5P1rxrl73o1_500.gif)
+![gif](![image](![image](https://github.com/stephanilino/MarioJump/assets/134796218/14b65e55-e587-4faf-9eca-11367025e8f8)
+
